@@ -1,0 +1,11 @@
+*********BASE DATASET**********
+date: the date of the data
+close: the closing price of the stock
+high: the highest price the stock reached that day
+low: the lowest price the stock reached that day
+open: the opening price of the stock
+volume: the volume of the stock traded that day
+
+starts from the 19/08/2004 to 21/10/2023
+
+Les colonnes gardées après filtrage sont seulement close et date

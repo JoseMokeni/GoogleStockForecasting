@@ -1,0 +1,12 @@
+pandas
+matplotlib
+statsmodels
+pmdarima
+joblib
+scikit-learn
+seaborn
+flask
+flask_cors
+flask_restful
+cloudinary
+warnings
